@@ -3,4 +3,9 @@ var person = {
     age: 12,
     IsFalse: true,
 };
-console.log(person.name);
+var user = {
+    name: "neha",
+    age: 14,
+    IsFalse: true,
+};
+console.log(user.name);
